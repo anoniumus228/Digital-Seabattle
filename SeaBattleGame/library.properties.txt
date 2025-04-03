@@ -1,0 +1,10 @@
+name=SeaBattleGame
+version=1.0.0
+author=Your Name
+maintainer=Your Name <your.email@example.com>
+sentence=A two-player Sea Battle game for Arduino with NeoPixel matrix and joysticks.
+paragraph=Implements a complete Sea Battle game with sound effects, ship placement, and turn-based gameplay.
+category=Uncategorized
+url=https://github.com/yourusername/SeaBattleGame
+architectures=*
+depends=Adafruit NeoPixel, DFRobotDFPlayerMini
