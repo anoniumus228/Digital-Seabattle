@@ -6,6 +6,6 @@
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/wFskLFHS)
+![App Screenshot]([https://ibb.co/wFskLFHS](https://i.postimg.cc/cL1k2s2x/5244457288541006558-1.jpg))
 
-![App Screenshot](https://ibb.co/kpQW2Nv)
+![App Screenshot]([https://ibb.co/kpQW2Nv](https://i.postimg.cc/cLDkNpGQ/5303333254285356316.jpg))
